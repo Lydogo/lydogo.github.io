@@ -1,16 +1,20 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Only one thing we say to Death: Not Today
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+**LI Yiduo**
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+#### Education
+- **Bachelor**  
+  Nanjing University of Aeronautics and Astronautics | Nanjing, Jiangsu, China  
+  Major: Automation
 
-What else do you need?
+- **Exchange Program**  
+  University West | Trollhättan, Sweden  
+  Major: Robotics
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- **Master**  
+  The Chinese University of Hong Kong, Shenzhen | Shenzhen, Guangdong, China  
+  Major: Artificial Intelligence and Robotics
