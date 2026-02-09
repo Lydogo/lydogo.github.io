@@ -14,7 +14,7 @@ baseurl: ""
 navbar-links:
   About Me: "aboutme"
   Resources:
-    # - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Isaaclab中文文档: "https://docs.robotsfan.com/isaaclab/index.html"
 
 ################
 # --- Logo --- #
